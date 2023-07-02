@@ -1,0 +1,33 @@
+﻿@using CabukWeb.Models
+@model List<Categories>
+@{
+    ViewBag.Title = "Kategoriler";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<table class ="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Kategori Adı</th>
+        <th>Kategori Oluşturulma Tarihi</th>
+        <th>Kategori Durumu</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CategoryId</td>
+            <td>@item.CategoriesName</td>
+            <td>@item.CreatedDate</td>
+            <td>@item.IsActive</td>
+            <td><a href="/Admin/KategoriSil/@item.CategoryId" class="btn btn-danger">Sil</a></td>
+            <td><a href="#" class="btn btn-success">Güncelle</a></td>
+            <td><a href="#" class="btn btn-default" style="background-color:#dee61d">Detaylar</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/Admin/YeniKategoriler/" class="btn btn-primary">Yeni Kategori Ekle</a>
+

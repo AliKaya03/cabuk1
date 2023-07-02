@@ -1,0 +1,29 @@
+﻿@model CabukWeb.Models.Categories
+@{
+    ViewData["Title"] = "Yeni Kategoriler Ekle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<form class="form-group" method="post">
+
+    <b>Kategori İsmi </b>
+
+    @Html.TextBoxFor(x=>x.CategoriesName , new {@class="form-control"})
+
+    <br/>
+    <b>Oluşturulan Tarih</b>
+
+    @Html.TextBoxFor(x=>x.CreatedDate , new {@class="form-control"})
+
+    <br />
+
+    <b>Çalışıyor mu </b>
+
+    @Html.TextBoxFor(x=>x.IsActive , new {@class="form-control"})
+
+    <br />
+    <button class="btn btn-info">Kategori Ekle</button>
+</form>
+
+

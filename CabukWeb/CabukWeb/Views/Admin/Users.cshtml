@@ -1,0 +1,32 @@
+﻿@using CabukWeb.Models
+@model List<Users>
+
+@{
+    ViewData["Title"] = "Kullanıcılar";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Kullanıcı Adı</th>
+        <th>Kullanıcı Soy Adı</th>
+        <th>Kullanıcı Takma Adı</th>
+        <th>Kullanıcı E-Posta</th>
+        <th>Kullanıcı Telefon Numarası</th>
+        <th>Sil</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.LastName</td>
+            <td>@item.UserName</td>
+            <td>@item.Email</td>
+            <td>@item.PhoneNumber</td>
+            <td><a href="/Admin/KullanıcıSil/@item.UserId" class="btn btn-danger">Sil</a></td>
+
+
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,54 @@
+﻿@model CabukWeb.Models.Products
+@{
+    ViewData["Title"] = "Yeni Ürün Ekle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form class="form-group" method="post">
+
+    <b>Ürün İsmi </b>
+
+    @Html.TextBoxFor(x=>x.Name, new {@class="form-control"})
+
+    <br />
+    <b>Ürün Fiyatı</b>
+
+    @Html.TextBoxFor(x=>x.Price , new {@class="form-control"})
+
+    <br />
+
+    <b>Fotoğraf Uzantısı </b>
+
+    @Html.TextBoxFor(x=>x.ImageUrl , new {@class="form-control"})
+
+    <br />
+
+    <b> Kategori Id </b>
+
+    @Html.TextBoxFor(x=>x.CategoryId, new {@class="form-control"})
+
+    <br />
+
+    <b> Kategori Id Tekrar </b>
+
+    @Html.TextBoxFor(x=>x.categories, new {@class="form-control"})
+
+
+
+    <br />
+
+    <b> Çalışıyor mu </b>
+
+    @Html.TextBoxFor(x=>x.IsActive , new {@class="form-control"})
+
+    <br />
+
+    <b> Oluşturulduğu Tarih </b>
+
+    @Html.TextBoxFor(x=>x.CreatedDate , new {@class="form-control"})
+
+    <br />
+
+    <button class="btn btn-info">Ürün Ekle</button>
+
+</form>

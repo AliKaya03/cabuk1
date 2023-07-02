@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CabukWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CabukWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\about.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\about.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\blog1.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\blog1.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\blog2.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\blog2.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\blog3.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\blog3.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\contact.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\contact.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\css\\contact.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\css\\contact.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\css\\single.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\css\\single.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\css\\style.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\b1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\b2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\b3.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\b4.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\b5.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\banner5.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\left.png",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\left.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\m1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\m2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\m3.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\m4.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\right.png",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\right.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\t1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\t2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\t3.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\t4.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\images\\top_up.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\index.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\index.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\login.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\login.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\register.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\register.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\single.html",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\single.html"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\w3layouts-license.txt"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\1518701.jpeg",
+      "PackagePath": "staticwebassets\\images\\1518701.jpeg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\406844.jpg",
+      "PackagePath": "staticwebassets\\images\\406844.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\Cabuk.gif",
+      "PackagePath": "staticwebassets\\images\\Cabuk.gif"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\ankara-burgu-500gr.png",
+      "PackagePath": "staticwebassets\\images\\ankara-burgu-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\ankara-fiyonk-500gr.png",
+      "PackagePath": "staticwebassets\\images\\ankara-fiyonk-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\ankara-kalem-500gr.png",
+      "PackagePath": "staticwebassets\\images\\ankara-kalem-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\ankara-kelebek-500gr.jpg",
+      "PackagePath": "staticwebassets\\images\\ankara-kelebek-500gr.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\ankara-spagetti-500gr.png",
+      "PackagePath": "staticwebassets\\images\\ankara-spagetti-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\cips.png",
+      "PackagePath": "staticwebassets\\images\\cips.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\images\\client1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\images\\client2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\cocacola.png",
+      "PackagePath": "staticwebassets\\images\\cocacola.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f7.png",
+      "PackagePath": "staticwebassets\\images\\f7.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f8.png",
+      "PackagePath": "staticwebassets\\images\\f8.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\f9.png",
+      "PackagePath": "staticwebassets\\images\\f9.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\filiz-burgu-500gr.png",
+      "PackagePath": "staticwebassets\\images\\filiz-burgu-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\filiz-kalem-500gr.png",
+      "PackagePath": "staticwebassets\\images\\filiz-kalem-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\filiz-spagett-500gr.png",
+      "PackagePath": "staticwebassets\\images\\filiz-spagett-500gr.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\foto.jpg",
+      "PackagePath": "staticwebassets\\images\\foto.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\indirim.png",
+      "PackagePath": "staticwebassets\\images\\indirim.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\indirimm.jpg",
+      "PackagePath": "staticwebassets\\images\\indirimm.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\indirimyeni.jpg",
+      "PackagePath": "staticwebassets\\images\\indirimyeni.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\makarna.jpg",
+      "PackagePath": "staticwebassets\\images\\makarna.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\images\\o1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\images\\o2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\images\\pepsi.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\pexels-photo-1666067.jpeg",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-1666067.jpeg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\pringles.png",
+      "PackagePath": "staticwebassets\\images\\pringles.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\pringleslar.jpg",
+      "PackagePath": "staticwebassets\\images\\pringleslar.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\shopping.jpg",
+      "PackagePath": "staticwebassets\\images\\shopping.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\sirma-5lt.png",
+      "PackagePath": "staticwebassets\\images\\sirma-5lt.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\images\\tada-ankara-tava.png",
+      "PackagePath": "staticwebassets\\images\\tada-ankara-tava.png"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\Son\\CabukWeb\\CabukWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CabukWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CabukWeb.props",
+      "PackagePath": "build\\CabukWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CabukWeb.props",
+      "PackagePath": "buildMultiTargeting\\CabukWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CabukWeb.props",
+      "PackagePath": "buildTransitive\\CabukWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

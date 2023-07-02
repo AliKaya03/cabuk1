@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<link href="~/CoreBlogTema/web/css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="~/CoreBlogTema/web/css/single.css" rel='stylesheet' type='text/css' />
+<link href="~/CoreBlogTema/web/css/style.css" rel='stylesheet' type='text/css' />
+<link href="~/CoreBlogTema/web/css/fontawesome-all.css" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800"
+	  rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<title>@ViewBag.Title</title>
+<a class="navbar-brand" href="@Url.Action("Index","Home")">
+    <span>
+        Ana Sayfaya Dön
+    </span>
+</a>
+      <div>
+          @RenderBody()
+      </div>
+
+<!-- //Custom-JavaScript-File-Links -->
+<script src="~/CoreBlogTema/web/js/bootstrap.js"></script>
+
+<script src="~/CoreBlogTema/web/js/jquery-2.2.3.min.js"></script>
+<!-- //js -->
+<!--/ start-smoth-scrolling -->
+<script src="~/CoreBlogTema/web/js/move-top.js"></script>
+<script src="~/CoreBlogTema/web/js/easing.js"></script>
+<script>

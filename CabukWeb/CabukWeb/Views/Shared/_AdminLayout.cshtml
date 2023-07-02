@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!DOCTYPE html>
+<html>
+<title>@ViewBag.Title</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+
+<body>
+
+    <!-- Sidebar -->
+    <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:25%">
+        <h3 class="w3-bar-item">Admin Paneli</h3>
+        <a href="@Url.Action("Urunler","Admin")" class="w3-bar-item w3-button">Ürünler</a>
+        <a href="@Url.Action("Kategoriler","Admin")" class="w3-bar-item w3-button">Kategoriler</a>
+        <a href="@Url.Action("Order","Admin")" class="w3-bar-item w3-button">Sipariş Kontrol</a>
+        <a href="@Url.Action("Users","Admin")" class="w3-bar-item w3-button">Kullanıcı Kontrol</a>
+        <a href="@Url.Action("Index","Home")" class="w3-bar-item w3-button">Çıkış</a>
+    </div>
+
+    <!-- Page Content -->
+    <div style="margin-left:25%">
+
+        <div class="w3-container w3-blue">
+            <h1>@ViewBag.Title</h1>
+        </div>
+
+       
+
+        <div class="w3-container">
+           @RenderBody()
+        </div>
+
+    </div>
+
+</body>
+</html>
+

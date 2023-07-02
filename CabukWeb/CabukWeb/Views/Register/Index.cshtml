@@ -1,0 +1,72 @@
+﻿
+@{
+    Layout = null;
+}
+
+<body>
+    <div class="container-fluid position-relative d-flex p-0">
+        <!-- Spinner Start -->
+        <div id="spinner" class="show bg-dark position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+        <!-- Spinner End -->
+        <!-- Sign Up Start -->
+        <div class="container-fluid">
+            <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh;">
+                <div class="col-12 col-sm-8 col-md-6 col-lg-5 col-xl-4">
+                    <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3">
+                        <div class="d-flex align-items-center justify-content-between mb-3">
+                            <a class="">
+                                <h3 class="text-primary"><i class="fa fa-user-edit me-2"></i>Cabuk</h3>
+                            </a>
+                            <h3>Yeni Kullanıcı Kayıt</h3>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <label for="validationCustom01">Adınız</label>
+                            <input type="text" class="form-control" id="validationDefault01" name="Name" placeholder="" required="" />
+                        </div>
+                        <div class="form-floating mb-3">
+                            <label for="validationCustom02">Soy Adınız</label>
+
+                            <input type="text" class="form-control" id="validationDefault02" name="LastName" placeholder="" required="" />
+                        </div>
+                        <div class="form-floating mb-4">
+                            <label for="validationCustom03">Kullanıcı Adınız</label>
+                            <input type="text" class="form-control" id="validationDefault03" name="UserName" placeholder="" required="" />
+                        </div>
+                        <div class="form-floating mb-4">
+                            <label for="exampleInputPassword1">Şifre</label>
+                            <input type="password" class="form-control" id="password1" name="Password" placeholder="" required="" />
+                        </div>
+                        <div class="form-floating mb-4">
+                            <label for="validationCustom04">E-Mail</label>
+                            <input type="email" class="form-control" id="validationDefault04" name="Email" placeholder="" required="" />
+                        </div>
+                        <div class="form-floating mb-4">
+                            <label for="validationCustom05">Telefon Numarası</label>
+                            <input type="number" class="form-control" id="validationDefault05" name="PhoneNumber" placeholder="" required="" />
+                        </div>
+                        <div class="form-floating mb-4">
+                            <label for="validationCustom06">Adress</label>
+                            <input type="text" class="form-control" id="validationDefault06" name="Adress" placeholder="" required="" />
+                        </div>
+
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                <label class="form-check-label" for="exampleCheck1">Tüm Şartları Okudum ve Kabul Ediyorum</label>
+                            </div>
+
+                        </div>
+                        <button type="submit" class="btn btn-primary submit mb-4">Kayıt Ol</button>
+                        <p class="text-center mb-0">Zaten Bir Hesabınız Mı Var <a href="@Url.Action("Giris","Home")">Giriş Yapınız</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sign Up End -->
+    </div>
+
+</body>
